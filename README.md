@@ -9,7 +9,9 @@ This project was completed by closely following Corey Schafer's 17-part series o
 - Acquired knowlegde in how to utilize ORM for storing and retrieving object information.
 
 ## Project Examples
+## Text Posts
 ![Example Image](my_django_project/blog/example_work/Screenshot%202023-09-02%20202348.png)
 Image showcasing text post abilities. Post objects are stored and rendered when accessing home.html using a loop.
+## Update User Profile
 ![Example Image](my_django_project/blog/example_work/Screenshot%202023-09-02%20202408.png)
 Image showcasing profile functionality
