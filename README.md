@@ -1,8 +1,12 @@
-# Social Media Webapp
+# Social Media Web App
 
-This project was built following Corey Schafer's 17 part series on Python and Django (https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer). This project introduced me to several important topics, such as writing HTML, CSS, and taught me how to work inside of the Django framework. During this process, I also learned how to deploy a website on a server and protect the server using SSH key based authetication.
+This project was completed by closely following Corey Schafer's 17-part series on Python and Django (https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer). Throughout this project, I gained valuable insights into several areas, including HTML and CSS development, as well as a introduction to the Django framework. I also acquired the skills necessary to deploy a website on a server while implementing various security measures to safeguard the server.
 
-## Project Examples
-!(./example_work/Screenshot 2023-09-02 202408.png)
-!(./example_work/Screenshot 2023-09-02 202348.png)
-!(./example_work/Screenshot 2023-09-02 202325)
+## Key Achievements
+- Successfully completed and deployed a fully operational website using Python and Django
+- Acquired proficiency in Bash to effectively communication with my server
+- Used Bootstrap for an enhanced user interface and improved functionality
+- Acquired knowlegde in how to utilize ORM for storing and retrieving object information.
+
+
+
