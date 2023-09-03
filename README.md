@@ -9,5 +9,6 @@ This project was completed by closely following Corey Schafer's 17-part series o
 - Acquired knowlegde in how to utilize ORM for storing and retrieving object information.
 
 ## Project Examples
-- ![](my_django_project/blog/example_work/Screenshot 2023-09-02 202408.png)
+![](my_django_project/blog/example_work/Screenshot 2023-09-02 202408.png)
+![Example Image](my_django_project/blog/example_work/Screenshot 2023-09-02 202408.png)
 
