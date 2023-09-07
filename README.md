@@ -6,7 +6,7 @@ This project was completed by closely following Corey Schafer's 17-part series o
 - Successfully completed and deployed a fully operational website using Python and Django
 - Acquired proficiency in Bash to effectively communication with my server
 - Used Bootstrap for an enhanced user interface and improved functionality
-- Acquired knowlegde in how to utilize ORM for storing and retrieving object information.
+- Acquired knowlegde in how to utilize ORM for storing and retrieving object information
 
 ## Project Examples
 ## Text Posts
